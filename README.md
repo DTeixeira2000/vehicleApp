@@ -10,9 +10,9 @@ The goal of the app is to display a list of vehicles loaded from a static JSON f
 ### Vehicle List & Filters
 
 <p float="left">
-  <img src="assets/screenshots/list1.png" width="300" />
-  <img src="assets/screenshots/list2.png" width="300" />
-  <img src="assets/screenshots/vehicleDetails.png" width="300" />
+  <img src="assets/screenshots/list1.png" width="270" />
+  <img src="assets/screenshots/list2.png" width="270" />
+  <img src="assets/screenshots/vehicleDetails.png" width="270" />
 </p>
 
 ### Vehicle Details
