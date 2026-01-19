@@ -4,21 +4,11 @@ This project is a **React Native vehicle listing application** built as part of 
 
 The goal of the app is to display a list of vehicles loaded from a static JSON file, allow users to filter and favourite vehicles, and view detailed information about each vehicle.
 
-
-## Screenshots
-
-### Vehicle List & Filters
-
 <p float="left">
   <img src="assets/screenshots/list1.png" width="270" />
   <img src="assets/screenshots/list2.png" width="270" />
   <img src="assets/screenshots/vehicleDetails.png" width="270" />
 </p>
-
-### Vehicle Details
-
-
-
 
 ---
 
