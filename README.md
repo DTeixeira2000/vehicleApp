@@ -177,8 +177,6 @@ The app can be run on:
 - [x] Filter by Make, Model, Starting Bid, Favourites
 - [x] Vehicle details page
 - [x] Image placeholders
-- [x] Clean UX and empty states
-
 ---
 
 **Author:** Diogo Teixeira
